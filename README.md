@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building skills in Python, Data Science & Machine Learning<br>🌱 Currently learning through hands-on projects and real datasets<br>👯 Open to collaborating on impactful beginner-to-intermediate projects<br>💬 Interested in tech, growth, and solving real-world problems<br>⚡ I believe in discipline > motivation
+🔭 Building skills in Python, Data Science & Machine Learning<br>🌱 Currently learning through hands-on projects and real datasets<br>👯 Open to collaborating on impactful beginner-to-intermediate projects<br>💬 Interested in tech, growth, and solving real-world problems.
 
 
 ## 🌐 Socials:
